@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1383779606 source:c:\users\erick-merlo\documents\github\programacion2\procedimientos3\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
