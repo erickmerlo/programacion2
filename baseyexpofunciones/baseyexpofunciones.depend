@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1384383153 source:c:\users\erick-merlo\documents\github\programacion2\baseyexpofunciones\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+

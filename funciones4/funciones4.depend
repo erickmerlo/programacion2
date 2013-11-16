@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1384384233 source:c:\users\erick-merlo\documents\github\programacion2\funciones4\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
