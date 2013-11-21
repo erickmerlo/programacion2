@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1385010010 source:c:\users\erick-merlo\documents\github\programacion2\tarea5\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+
