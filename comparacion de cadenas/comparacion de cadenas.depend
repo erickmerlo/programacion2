@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1386271124 source:c:\users\erick-merlo\documents\github\programacion2\comparacion de cadenas\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

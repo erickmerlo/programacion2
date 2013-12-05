@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1386270937 source:c:\users\erick-merlo\documents\github\programacion2\registro4\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
