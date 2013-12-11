@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1386780192 source:c:\users\administrador2013\documents\github\programacion2\contarconsonante\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
