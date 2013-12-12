@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1386801988 source:c:\users\administrador2013\documents\github\programacion2\cadenasalrevez\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
